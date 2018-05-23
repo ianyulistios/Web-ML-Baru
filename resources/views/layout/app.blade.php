@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Squadfree - Free bootstrap 3 one page template</title>
+  <title>Evaldine | Web Text Spam Classification</title>
 
   <!-- Bootstrap Core CSS -->
   <link href="/ML/css/bootstrap.min.css" rel="stylesheet" type="text/css">
