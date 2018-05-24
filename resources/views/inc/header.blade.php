@@ -10,7 +10,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
         <a class="navbar-brand" href="index.html">
-          <h1>Evaldine</h1>
+          <h1>English SMS Spam Prediction</h1>
         </a>
       </div>
 

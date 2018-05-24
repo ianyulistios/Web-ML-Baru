@@ -1,8 +1,8 @@
 <section id="intro" class="intro">
 
     <div class="slogan">
-      <h2>WELCOME TO <span class="text_color">OUR CLASSIFICATION WEBSITE</span> </h2>
-      <h4>WE ARE</h4>
+      <h2>WELCOME TO <span class="text_color">OUR PREDICTION WEBSITE</span> </h2>
+      <h4>WE HELP YOU TO KNOW SMS/MESSAGE SPAM OR HAM BASED ON DATASET</h4>
     </div>
     <div class="page-scroll">
       <a href="#service" class="btn btn-circle">
