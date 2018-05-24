@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Evaldine | Web Text Spam Classification</title>
+  <title>ESPRE | English SMS Spam Prediction</title>
 
   <!-- Bootstrap Core CSS -->
   <link href="/ML/css/bootstrap.min.css" rel="stylesheet" type="text/css">
